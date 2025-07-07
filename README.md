@@ -1,6 +1,6 @@
 # 🧠 Local AI Assistant with Context-Aware Summarization and Snippet Highlighting
 
-A lightweight, locally-hosted GenAI assistant built to run under **4GB VRAM**, powered by **LLaMA 3.1 1B Instruct**, **Chroma**, and **Nomic Text Embeddings**. Supports intelligent document understanding, contextual memory, auto-summarization, and snippet highlighting — all without sending your data to the cloud.
+A lightweight, locally-hosted GenAI assistant built to run under **4GB VRAM**, powered by **LLaMA 3.2 1B Instruct**, **Chroma**, and **Nomic Text Embeddings**. Supports intelligent document understanding, contextual memory, auto-summarization, and snippet highlighting — all without sending your data to the cloud.
 
 Demo Video Link : ```https://youtu.be/w4jVvcEBtjU```
 
